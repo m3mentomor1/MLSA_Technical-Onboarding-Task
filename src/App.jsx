@@ -29,7 +29,7 @@ const siteProps = {
   email: "shain.sahagun@studentambassadors.com",
   gitHub: "microsoft",
   instagram: "microsoft",
-  linkedIn: "https://www.linkedin.com/in/shain-sahagun/",
+  linkedIn: "shain-sahagun",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
