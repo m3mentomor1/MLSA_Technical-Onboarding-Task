@@ -28,7 +28,7 @@ const siteProps = {
   title: "Junior Software & AI/ML Developer",
   email: "shain.sahagun@studentambassadors.com",
   gitHub: "m3mentomor1",
-  linkedIn: "microsoft",
+  linkedIn: "shain-sahagun",
 };
 
 const primaryColor = "#4E567E";
